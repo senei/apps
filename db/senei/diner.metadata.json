@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"senei.diner"},{"v":1,"key":{"phone":1},"name":"phone_1","ns":"senei.diner","background":true}]}

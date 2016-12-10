@@ -1,0 +1,5 @@
+{"_id":{"$oid":"584bdc8a423fd9200b9165de"},"extras":" -- extras -- ","breakfast":" -- breakfast -- ","tea":" -- tea -- ","week":50,"year":2016,"lunch":" -- lunch -- ","diet":"","vendorId":{"$oid":"5846fb4c78d4ef6102acdfd0"},"day":1}
+{"_id":{"$oid":"584be328d076fe000cda5331"},"extras":" -- extras -- ","breakfast":" -- breakfast -- ","tea":" -- tea -- ","day":5,"week":50,"year":2016,"lunch":" -- lunch -- ","diet":"","vendorId":{"$oid":"5846fb4c78d4ef6102acdfd0"}}
+{"_id":{"$oid":"584be32fd076fe000cda5332"},"extras":" -- extras -- ","breakfast":" -- breakfast -- ","tea":" -- tea -- ","day":4,"week":50,"year":2016,"lunch":" -- lunch -- ","diet":"","vendorId":{"$oid":"5846fb4c78d4ef6102acdfd0"}}
+{"_id":{"$oid":"584be332d076fe000cda5333"},"extras":" -- extras -- ","breakfast":" -- breakfast -- ","tea":" -- tea -- ","day":3,"week":50,"year":2016,"lunch":" -- lunch -- ","diet":"","vendorId":{"$oid":"5846fb4c78d4ef6102acdfd0"}}
+{"_id":{"$oid":"584be4a8d076fe000cda5336"},"extras":" -- extras -- ","breakfast":" -- breakfast -- ","tea":" -- tea -- ","day":2,"week":50,"year":2016,"lunch":" -- lunch -- ","diet":"","vendorId":{"$oid":"5846fb4c78d4ef6102acdfd0"}}

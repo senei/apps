@@ -1,0 +1,53 @@
+{
+  "name": "user",
+  "base": "User",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "phone": {
+      "type": "string",
+      "comments": "phone number"
+    },
+    "geopoint": {
+      "type": "geopoint",
+      "comments": "localisation"
+    },
+    "wallet": {
+      "type": "number"
+    }
+  },
+  "validations": [],
+  "relations": {
+    "address": {
+      "type": "belongsTo",
+      "model": "address",
+      "foreignKey": "addressId"
+    },
+    "diners": {
+      "type": "hasMany",
+      "model": "diner",
+      "foreignKey": "canteenId"
+    },
+    "menus": {
+      "type": "hasMany",
+      "model": "menu",
+      "foreignKey": "vendorId"
+    },
+    "menu_prices": {
+      "type": "hasMany",
+      "model": "menu_price",
+      "foreignKey": "vendorId"
+    }
+  },
+  "acls": [
+    {
+      "accessType": "READ",
+      "principalType": "ROLE",
+      "principalId": "$everyone",
+      "permission": "ALLOW"
+    }
+  ],
+  "methods": {}
+}

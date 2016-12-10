@@ -1,0 +1,1 @@
+{"_id":{"$oid":"584bd178dfba20db095963c1"},"extras":2,"breakfast":5,"lunch":10,"tea":1,"sum":15,"week":50,"year":2016,"diet":"","vendorId":{"$oid":"5846fb4c78d4ef6102acdfd0"},"takeaway":4}

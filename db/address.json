@@ -1,0 +1,2 @@
+{"_id":{"$oid":"584736edf59b78b60afd6661"},"recipient":"Maksymilian Grudziecki","street":"ul. Ostrołęcka 10/2","locality":"Gdańsk","country":"POLAND","postalCode":"80-180","userId":{"$oid":"5846fb4c78d4ef6102acdfd0"}}
+{"_id":{"$oid":"58486a043248063e2d729ddf"},"recipient":" -- recipient -- ","street":" -- street -- ","locality":" -- locality -- ","country":" -- PL -- ","postalCode":"80-180","userId":{"$oid":"5848756ec53446332fe11a40"}}
