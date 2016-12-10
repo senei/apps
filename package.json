@@ -24,9 +24,9 @@
     "nsp": "^2.1.0"
   },
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "GIT",
+    "url": "https://github.com/senei/apps"
   },
-  "license": "UNLICENSED",
+  "license": "MIT",
   "description": "apps"
 }
